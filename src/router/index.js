@@ -19,7 +19,7 @@ const routes = [
 		component: () =>
 			import(/* webpackChunkName: "about" */ '../views/About.vue'),
 		meta: {
-			title: 'Stoman - About',
+			title: 'Angel - Acerca de mí',
 		},
 	},
 	{
